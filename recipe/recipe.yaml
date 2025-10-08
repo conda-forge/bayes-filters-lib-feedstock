@@ -9,7 +9,7 @@ package:
   version: ${{ version }}
 
 source:
-  url: https://github.com/robotology/bayes-filters-lib/archive/refs/tags/${{ version }}.tar.gz
+  url: https://github.com/robotology/bayes-filters-lib/archive/refs/tags/v${{ version }}.tar.gz
   sha256: 21eb22a6d03e8213c10c73e64baee01f08d6e61410375a57461f16411e5d742c
 
 build:
